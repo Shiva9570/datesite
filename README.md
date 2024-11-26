@@ -80,7 +80,7 @@ We welcome contributions! If you'd like to improve the design, functionality, or
 
 For any queries or feedback, feel free to reach out:
 
-Email: your-email@example.com
+Email: shivendra9570.mishra@gmail.com
 
 
 
